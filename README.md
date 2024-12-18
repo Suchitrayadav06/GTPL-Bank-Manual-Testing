@@ -12,8 +12,7 @@ Detailed test cases for validating various features of the GTPL Bank application
 
 | Module                | Description                      | File Link                                    |
 |-----------------------|----------------------------------|---------------------------------------------|
-| New Customer          | Test cases for adding a customer. | https://docs.google.com/spreadsheets/d/15HsMkcicc3zF4J5oG2ptjOozlDYFc88u9__sRnzbmYM/edit?usp=drive_link |
-| Edit Customer         | Test cases for editing a customer. | https://docs.google.com/spreadsheets/d/15HsMkcicc3zF4J5oG2ptjOozlDYFc88u9__sRnzbmYM/edit?usp=drive_link |
+| Field Level Validations | Test cases for validating fields. | https://docs.google.com/spreadsheets/d/15HsMkcicc3zF4J5oG2ptjOozlDYFc88u9__sRnzbmYM/edit?usp=sharing |
 
 ---
 
